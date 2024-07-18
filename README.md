@@ -29,10 +29,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmedeldamity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasssanezz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100029971904430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasssanezz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ahmed_eldamity__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasssanezz" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/El_DamitY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasssanezz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100029971904430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedeldamity" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmed_eldamity__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedeldamity" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/El_DamitY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedeldamity" height="30" width="40" /></a>
 </p>
+<a href="https://www.leetcode.com/El_DamitY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedeldamity" height="30" width="40" /></a>
 
 ### My GitHub Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeldamity&theme=dark&layout=compact)
