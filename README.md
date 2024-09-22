@@ -14,7 +14,6 @@
 - ✍🏻  I love using Software and new technologies to solve problems.
 - 📚  I am currently learning `Computer Science`.
 - 📄 [My Resume](https://drive.google.com/file/d/1zpahsFJxdCX7WqLbaD99N8Bw_YkYl9eU/view?usp=sharing)
-- 
 
 ### Contact with me:
 
