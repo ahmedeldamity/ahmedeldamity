@@ -13,7 +13,8 @@
 - 🌱  I’m currently learning **Backend  & Software Development**
 - ✍🏻  I love using Software and new technologies to solve problems.
 - 📚  I am currently learning `Computer Science`.
-- 📄 [My Resume](https://drive.google.com/file/d/14M6CIhVFlzl-Ukrj0wj5RkOCu4YhChC5/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1zpahsFJxdCX7WqLbaD99N8Bw_YkYl9eU/view?usp=sharing)
+- 
 
 ### Contact with me:
 
