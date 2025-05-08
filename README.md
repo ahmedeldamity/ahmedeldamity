@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">🌱 I’m currently learning ASP.NET Core | Angular | Docker | Azure <br>
-🌱 I am a Junior at Faculty of Computers & Informatics at Tanta University</h3>
+🌱 I am a student at Faculty of Computers & Informatics at Tanta University</h3>
 
 ## About me
 
@@ -13,7 +13,7 @@
 - 🌱  I’m currently learning **Backend  & Software Development**
 - ✍🏻  I love using Software and new technologies to solve problems.
 - 📚  I am currently learning `Computer Science`.
-- 📄  Know about my experiences <a href="https://drive.google.com/file/d/1AMCXrp39SVJhTR8VEAfZnHpPZPA4Tp-L/view?usp=drive_link" target="blank" >Resume</a>
+- 📄  Know about my experiences <a href="https://drive.google.com/file/d/1648y8ScHzngiytaEKw5cBpd3QVP-4t_U/view?usp=drive_link" target="blank" >Resume</a>
 - ☕ Fun fact: I can't start my day without a cup of coffee 'That help me to focus more during working'.
 
 ### Contact with me:
